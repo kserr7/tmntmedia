@@ -1,0 +1,13 @@
+{"children":[{"name":"Mirage Comics","children":[{"name":"mister_Volume 1","group":"A","value":"Issues #1 - #62","colname":"level3"},
+{"name":"mister_Volume 2","group":"A","value":"Issues #63 - #75", "colname":"level3"},
+{"name":"mister_Volume 3","group":"C","value":"Issues #1 - #23", "colname":"level3"},
+{"name":"mister_Volume 4","group":"C","value":"Issues #76 - #107", "colname":"level3"}],"colname":"level2"},
+{"name":"IDW Comics","children":[{"name":"mister_Volume 1","group":"C","value":"Issue #1-#100,","colname":"level3"},
+{"name":"mister_Volume 1: Rebirth","group":"A","value":"Issue #101-#150","colname":"level3"},
+{"name":"mister_Volume 2","group":"B","value":"Ongoing","colname":"level3"},
+{"name":"'87 TV Series","children":[{"name":"mister_i","group":"B","value":10,"colname":"level3"},
+{"name":"mister_j","group":"A","value":13,"colname":"level3"},
+{"name":"mister_k","group":"A","value":13,"colname":"level3"},
+{"name":"mister_l","group":"D","value":25,"colname":"level3"},
+{"name":"mister_m","group":"D","value":16,"colname":"level3"},
+{"name":"mister_n","group":"D","value":28,"colname":"level3"}],"colname":"level2"}],"name":"CEO"}]}
