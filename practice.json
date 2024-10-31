@@ -1,0 +1,16 @@
+{"children":[{"name":"Mirage Comics","children":[{"name":"class_Volume 1","group":"A","length":"Issues #1 - #62","colname":"level3"},
+{"name":"class_Volume 2","group":"A","length":"Issues #63 - #75", "colname":"level3"},
+{"name":"class_Volume 3","group":"C","length":"Issues #1 - #23", "colname":"level3"},
+{"name":"class_Volume 4","group":"C","length":"Issues #76 - #107", "colname":"level3"}],"colname":"level2"},
+{"name":"IDW Comics","children":[{"name":"class_Volume 1","group":"C","length":"Issue #1-#100,","colname":"level3"},
+{"name":"class_Volume 1: Rebirth","group":"A","length":"Issue #101-#150","colname":"level3"},
+{"name":"class_Volume 2","group":"B","length":"Ongoing","colname":"level3"},
+{"name":"'87 TV Series","children":[{"name":"class_i","group":"B","length":10,"colname":"level3"},
+{"name":"class_h","group":"B","length":16,"colname":"level3"}],"colname":"level2"},
+{"name":"class_j","group":"A","length":13,"colname":"level3"},
+{"name":"class_k","group":"A","length":13,"colname":"level3"},
+{"name":"class_l","group":"D","length":25,"colname":"level3"},
+{"name":"class_m","group":"D","length":16,"colname":"level3"},
+{"name":"class_n","group":"D","length":28,"colname":"level3"}],"colname":"level2"}],"name":"CEO"}
+
+
