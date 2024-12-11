@@ -43,13 +43,13 @@
         "length": "1hr 27 min"
     },
     {"name": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
-    "group":"C","value":30,"colname":"level3",
+    "group":"C","value":35,"colname":"level3",
         "creators": "Andy Suriano, Ant Ward, Tony Gama-Lobo, Rebecca May",
         "date": "2022",
         "length": "1hr 22 min"
     },
     {"name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-    "group":"D","value":25,"colname":"level3",
+    "group":"D","value":30,"colname":"level3",
         "creators": "Jeff Rowe, Kyler Spears, Seth Rogan, Evan Goldberg",
         "date": "2023",
         "length": "1hr 39 min"}],"colname":"level2"}],"name":"CEO"}
