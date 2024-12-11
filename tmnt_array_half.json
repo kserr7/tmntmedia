@@ -33,17 +33,17 @@
         "length": "1hr 52 min"}],"colname":"level2"},{"name":"Obscure Movies","children":
     [{"name": "Teenage Mutant Ninja Turtles: Mutant Apocalypse",
     "group":"A","value":26,"colname":"level3",
-        "creators": "Rie Koga, Heather A. Maxwell, Ciro Nieli, Brandon Auman, Kevin Eastman, Gavin Hignight",
+        "creators": "Rie Koga, Heather Maxwell, Ciro Nieli, Brandon Auman, Eastman, Gavin Hignight",
         "date": "2017",
         "length": "1hr 6 min"},
     {"name": "Batman vs. Teenage Mutant Ninja Turtles",
-    "group":"B","value":25,"colname":"level3",
-        "creators": "Jake Castorena, Marly Halpern-Graser, James Tynion IV, Freddie E. Williams II",
+    "group":"B","value":27,"colname":"level3",
+        "creators": "Jake Castorena, Marly Halpern-Graser, James Tynion, Freddie Williams",
         "date": "2019",
         "length": "1hr 27 min"
     },
     {"name": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
-    "group":"C","value":24,"colname":"level3",
+    "group":"C","value":30,"colname":"level3",
         "creators": "Andy Suriano, Ant Ward, Tony Gama-Lobo, Rebecca May",
         "date": "2022",
         "length": "1hr 22 min"
