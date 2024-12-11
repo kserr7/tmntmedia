@@ -1,7 +1,9 @@
 {"children":[{"name":"boss1","children":[{"name":"mister_Teenage Mutant Ninja Turtles",
-        "group":"Steve Barron, Eastman, Peter Laird, Bobby Herbeck",
+        "group":"A",
+        "creators":"Steve Barron, Eastman, Peter Laird, Bobby Herbeck",
         "value": "1990",
-        "colname": "1hr 33 min"},
+        "length": "1hr 33 min",
+        "colname":"level3"}
        {"name":"mister_Teenage Mutant Ninja Turtles II: The Secret of The Ooze",
         "group": "Michael Pressman, Eastman, Laird, Todd W. Langen",
         "value": "1991",
